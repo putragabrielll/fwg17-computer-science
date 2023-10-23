@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2023-10-23T03:24:16.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="68jCTp5V3V4tWdRKOH9J" version="22.0.6" type="device">
+  <diagram name="Page-1" id="I2Jp_I9GkwE_dufN5DpQ">
+    <mxGraphModel dx="1026" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ovLBWK_UYbhCwVlvZcoD-4" value="&lt;h1&gt;Algoritma memindahkan air&lt;/h1&gt;&lt;p&gt;1. mulai&lt;br&gt;2. siapkan gelas yang sudah terisi dengan air teh dan kopi&lt;br&gt;3. siapkan 1 cangkir gelas kosong&lt;br&gt;4. tuangkan gelas yang berisi kopi ke dalam gelas kosong&lt;br&gt;5. tuangkan gelas yang berisi teh ke dalam gelas kopi yang sudah kosong&lt;br&gt;6. tuangkan kembali gelas yang berisi kopi ke dalam gelas teh yang sudah kosong&lt;br&gt;7. selesai&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="440" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

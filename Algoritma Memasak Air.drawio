@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2023-10-23T03:23:31.602Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TTKStGBI7a-Ns9HdNGE6" version="22.0.6" type="device">
+  <diagram name="Page-1" id="I2Jp_I9GkwE_dufN5DpQ">
+    <mxGraphModel dx="1026" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ovLBWK_UYbhCwVlvZcoD-1" value="&lt;h1&gt;Algoritma merebus air&lt;/h1&gt;&lt;p&gt;1. mulai&lt;br&gt;2. siapkan baskom, air mineral, kompor dan gas&lt;br&gt;3. sambungkan gas dengan kompor&lt;br&gt;4. letakkan baskom di atas kompor&lt;br&gt;5. tuangkan 1L air ke dalam baskom&lt;br&gt;6. hidupkan kompor&lt;br&gt;7. tunggu air hingga mendidih sekitar 5-10 menit&lt;br&gt;8. tuangkan air ke dalam gelas kaca sebanyak 350ml&lt;br&gt;9. tambahkan setengah gelas air mineral biasa&lt;br&gt;10. air siap di nikmati&lt;br&gt;11. selesai&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry y="30" width="440" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
