@@ -1,0 +1,21 @@
+<mxfile host="app.diagrams.net" modified="2023-10-23T04:36:52.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="oXGOkvfCqO5klwPhP8cW" version="22.0.6" type="device" pages="2">
+  <diagram name="Algoritma menghitung luas &amp; keliling" id="I2Jp_I9GkwE_dufN5DpQ">
+    <mxGraphModel dx="1026" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ovLBWK_UYbhCwVlvZcoD-4" value="&lt;h1&gt;Algoritma menghitung luas &amp;amp; keliling&lt;/h1&gt;&lt;p&gt;1. mulai&lt;br&gt;2. tentukan berapap nilai jari-jarinya&lt;br&gt;3. hitung jari-jarinya apakah habis dibagi 7&lt;br&gt;4. jika &quot;ya&quot; , π gunakan 22/7&lt;br&gt;5 jika &quot;tidak&quot;, π gunakan 3.14&lt;br&gt;6. masukkan rumus luas = π&amp;nbsp;*r *r&lt;br&gt;7. hitung luas =&amp;nbsp;π*r*r&lt;br&gt;8. masukkan rumus keliling = 2*π*r&lt;br&gt;9. hitung keliling = 2*π*r&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;10. hasil diperoleh&lt;br&gt;11. selesai&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="10" y="40" width="440" height="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Z8xib8x-ZJ2HfgOncbxz" name="Flowchart">
+    <mxGraphModel dx="1026" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
