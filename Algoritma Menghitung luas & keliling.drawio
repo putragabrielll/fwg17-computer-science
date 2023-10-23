@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2023-10-23T04:05:41.787Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Srp1AwJ14NbDkeN77Sqk" version="22.0.6" type="device">
+  <diagram name="Page-1" id="I2Jp_I9GkwE_dufN5DpQ">
+    <mxGraphModel dx="1026" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ovLBWK_UYbhCwVlvZcoD-4" value="&lt;h1&gt;Algoritma menghitung luas &amp;amp; keliling&lt;/h1&gt;&lt;p&gt;1. mulai&lt;br&gt;2. tentukan berapap nilai jari-jarinya&lt;br&gt;3. hitung jari-jarinya apakah habis dibagi 7&lt;br&gt;4. jika &quot;ya&quot; gunakan 22/7&lt;br&gt;5 jika &quot;tidak&quot; gunakan 3.14&lt;br&gt;6. masukkan rumus luas = π&amp;nbsp;*r *r&lt;br&gt;7. masukkan rumus keliling = 2*π*r&lt;br&gt;8. hasil diperoleh&lt;br&gt;8. selesai&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="440" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
